@@ -1,2 +1,1 @@
-# awesome-compiler-principles-techniques-resource
-Awesome Compiler Principles Techniques Resource
+# **`Awesome`** Compiler Principles Techniques Resource
