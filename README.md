@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Compiler Principles Techniques Resource [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Compiler](https://wikipedia.org/wiki/Compiler) Principles Techniques Resource [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
