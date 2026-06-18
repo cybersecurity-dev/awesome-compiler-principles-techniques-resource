@@ -17,18 +17,24 @@
 </p>
 
 ## 📖 Contents
-- [Books](#books)
+- [Resources](#resources)
+    - [Books](#books)
+    - [Videos](#videos)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-# Books
+## Resources
+
+### Books
 * [Structure and Interpretation of Computer Programs ](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886)
 * [Writing a C Compiler: Build a Real Programming Language from Scratch](https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424)
 * [Linkers and Loaders](https://www.amazon.com/Linkers-Kaufmann-Software-Engineering-Programming/dp/1558604960)
 * [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930)
 * [Writing A Compiler In Go](https://www.amazon.com/Writing-Compiler-Go-Thorsten-Ball/dp/398201610X)
+
+### Videos
 
 ##
 
@@ -41,6 +47,7 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-resource/graphs/contributors)!
 
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
 [🔼 Back to top](#awesome-compiler-principles-techniques-resource-)
-
-
